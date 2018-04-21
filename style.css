@@ -1,0 +1,47 @@
+body {
+  background-color: #22A7F0;
+  text-align: center;
+}
+#header {
+  background-color: #22A7F0;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  height: 80pt;
+  font-size: 64pt;
+  display: block;
+}
+#header a {
+  color: white;
+  text-decoration: none;
+}
+.header-list li {
+  display: inline;
+}
+#content {
+  display: block;
+  background-color: #22A7F0;
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  height: auto;
+}
+#content a {
+  color: black;
+  text-decoration: none;
+}
+.blog-post {
+  background-color: lightgray;
+  margin: 2pt;
+}
+#footer {
+  display: block;
+  background-color: #22A7F0;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+#footer a {
+  color: white;
+  text-decoration: none;
+}
+.nav-column li {
+  display: inline;
+}
